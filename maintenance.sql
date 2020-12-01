@@ -7,6 +7,4 @@ UPDATE servico_info
   JOIN servicos ON servicos.id = contratos_servicos.id_servico AND servicos.natureza = 'internet'
   JOIN contratos ON contratos.id = contratos_servicos.id_contrato
   JOIN clientes ON clientes.id = contratos.id_cliente AND clientes.cidade = 'Santa Maria'
-SET usuario = CONCAT(usuario, '@voalle.com.br’)
-WHERE
-  TRUE;
+SET usuario = CONCAT(usuario, '@voalle.com.br’);
