@@ -28,6 +28,4 @@ Segue exercício:
 
  
 
-4) Agora nosso cliente identificou um erro operacional de sua equipe, todos os usuários de internet da cidade de Santa Maria foram criados sem o sufixo "@voalle.com.br",
-
-o que está ocasionando a não autenticação dos mesmos. Você deve adicionar esta informação a este campo.
+4) Agora nosso cliente identificou um erro operacional de sua equipe, todos os usuários de internet da cidade de Santa Maria foram criados sem o sufixo "@voalle.com.br", o que está ocasionando a não autenticação dos mesmos. Você deve adicionar esta informação a este campo.
